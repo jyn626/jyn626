@@ -5,6 +5,7 @@
 # @dojimori 
 - Freshman BSIT student <strong>@University of Science and Technology of Philippines</strong>.
 - I'm interested in `Software Development` and `Networking`.
+- Eager to learn more about `backend development`.
 - Fighting social anxiety every day.
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p>  -->
