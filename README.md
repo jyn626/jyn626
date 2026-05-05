@@ -8,7 +8,7 @@ freshman BSIT student <strong>@University of Science and Technology of Philippin
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
-i like newjeans and i code if i remember
+i like newjeans and i code if i feel like it.
 
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/a4d6d3ac-8f68-4a55-aa5a-d85361154a3a"/>  -->
 <!-- <img width="288" align="left" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>  -->
