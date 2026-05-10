@@ -1,5 +1,5 @@
 <!-- <img width="735" height="245" alt="@wontatron" src="https://github.com/user-attachments/assets/d6b1abcb-77f1-4f93-b073-4479184b5725" /><!--![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)--> 
-<img width="936" height="245" alt="@wontatron" src="https://github.com/user-attachments/assets/8a4b109f-c141-4683-a09c-a6b69b76331f" />
+<img width="936" height="300" alt="@wontatron" src="https://github.com/user-attachments/assets/8a4b109f-c141-4683-a09c-a6b69b76331f" />
 
 <!-- <img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/c1c86fe3-1d26-4521-a578-b96cfe7725d4">  -->
 
@@ -14,10 +14,8 @@ i like newjeans and i code if i feel like it.
 <!-- <img width="288" align="left" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>  -->
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/fab37bd7-3786-4420-b3cf-b30191ca0cfe"/>  -->
 
----
-
 <!-- <img width="256" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>   -->
-<div align="left">
+<!-- <div align="left">
   <p>frontend</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
@@ -54,7 +52,7 @@ i like newjeans and i code if i feel like it.
 
 ![](https://komarev.com/ghpvc/?username=dojimori&style=plastic&color=red&label=GH+Profile+Views)
 [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318) -->
 
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
   
