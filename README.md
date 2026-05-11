@@ -1,5 +1,6 @@
+<img width="936" height="245" alt="kpop newjeans messy twitter header minji" src="https://github.com/user-attachments/assets/e0c298c6-fc16-41ff-9b36-1ca70c9c8a43" />
 <!-- <img width="735" height="245" alt="@wontatron" src="https://github.com/user-attachments/assets/d6b1abcb-77f1-4f93-b073-4479184b5725" /><!--![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)--> 
-<img width="936" height="300" alt="@wontatron" src="https://github.com/user-attachments/assets/8a4b109f-c141-4683-a09c-a6b69b76331f" />
+<!-- <img width="936" height="300" alt="@wontatron" src="https://github.com/user-attachments/assets/8a4b109f-c141-4683-a09c-a6b69b76331f" /> -->
 
 <!-- <img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/c1c86fe3-1d26-4521-a578-b96cfe7725d4">  -->
 
