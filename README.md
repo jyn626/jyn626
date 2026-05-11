@@ -52,15 +52,16 @@ i like newjeans and i code if i feel like it.
 
 # Socials
 
-![](https://komarev.com/ghpvc/?username=dojimori&style=plastic&color=red&label=GH+Profile+Views)
-[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318) -->
+ -->
 
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
   
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/> -->
 <!--`INTP, so introverted and lazy. programming is my escape from reality.`-->
 
+<!--![](https://komarev.com/ghpvc/?username=dojimori&style=plastic&color=red&label=GH+Profile+Views) -->
     
+[![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=plastic&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
 
 
