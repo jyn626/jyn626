@@ -14,7 +14,8 @@ freshman BSIT student <strong>@University of Science and Technology of Philippin
 
 {
   "likes": "i like newjeans and i code if i feel like it",
-  "currently_learning": "godot & pixel arts"
+  "currently_learning": "godot & pixel arts",
+  "bio": "i wanna be a cool builder, but where do i start?"
 }
  
 ```
