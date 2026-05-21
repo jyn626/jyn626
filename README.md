@@ -1,3 +1,4 @@
+
 <!-- <img width="936" height="228" alt="minji (2)" src="https://github.com/user-attachments/assets/b98ff333-d078-405b-b91c-2127bea711b8" /> -->
 <!-- <img width="936" height="245" alt="kpop newjeans messy twitter header minji" src="https://github.com/user-attachments/assets/e0c298c6-fc16-41ff-9b36-1ca70c9c8a43" /> -->
 <!-- <img width="735" height="245" alt="@wontatron" src="https://github.com/user-attachments/assets/d6b1abcb-77f1-4f93-b073-4479184b5725" /><!--![FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize](https://github.com/user-attachments/assets/e244e79d-9997-483a-9bd8-7dddd4a8eaa5)--> 
@@ -6,6 +7,9 @@
 <!-- <img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/c1c86fe3-1d26-4521-a578-b96cfe7725d4">  -->
 
 # @jyn626 👋
+
+<img align="right" width="64" height="64" alt="enemy-Sheet" src="https://github.com/user-attachments/assets/fef669ac-7beb-4db7-a5b8-8a9a4bb7fb1b" />
+
 freshman BSIT student <strong>@University of Science and Technology of Philippines (USTP)</strong>.
 
 i like newjeans, and i code if i feel like it
