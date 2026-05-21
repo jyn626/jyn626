@@ -8,24 +8,17 @@
 # @jyn626 👋
 freshman BSIT student <strong>@University of Science and Technology of Philippines (USTP)</strong>.
 
+i like newjeans, and i code if i feel like it
+
+---
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
-
-```json
-
-{
-  "likes": "i like newjeans and i code if i feel like it",
-  "currently_learning": "godot & pixel arts",
-  "bio": "i wanna be a cool builder, but where do i start?"
-}
- 
-```
 
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/a4d6d3ac-8f68-4a55-aa5a-d85361154a3a"/>  -->
 <!-- <img width="288" align="left" src="https://github.com/user-attachments/assets/eaeca6a6-8d90-455d-a259-f6a994feef89"/>  -->
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/fab37bd7-3786-4420-b3cf-b30191ca0cfe"/>  -->
 
 <!-- <img width="256" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>   -->
-<!-- <div align="left">
+ <div align="left">
   <p>frontend</p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
@@ -59,8 +52,6 @@ freshman BSIT student <strong>@University of Science and Technology of Philippin
 </div>
 
 # Socials
-
- -->
 
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
   
