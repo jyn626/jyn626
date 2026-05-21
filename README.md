@@ -44,7 +44,7 @@ i like newjeans, and i code if i feel like it
   <p>tools</p>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
