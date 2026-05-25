@@ -5,10 +5,12 @@
 <!-- <img width="936" height="300" alt="@wontatron" src="https://github.com/user-attachments/assets/8a4b109f-c141-4683-a09c-a6b69b76331f" /> -->
 
 <!-- <img height="244" width="100%" style="object-fit: cover;" src="https://github.com/user-attachments/assets/c1c86fe3-1d26-4521-a578-b96cfe7725d4">  -->
+<img width="1200" height="245" alt="♡" src="https://github.com/user-attachments/assets/0670d947-d991-4709-9cde-6c56ea33c19f" />
+
 
 # @jyn626 👋
 
-<img align="right" width="64" height="64" alt="enemy-Sheet" src="https://github.com/user-attachments/assets/fef669ac-7beb-4db7-a5b8-8a9a4bb7fb1b" />
+<!-- <img align="right" width="64" height="64" alt="enemy-Sheet" src="https://github.com/user-attachments/assets/fef669ac-7beb-4db7-a5b8-8a9a4bb7fb1b" /> -->
 
 freshman BSIT student <strong>@University of Science and Technology of Philippines (USTP)</strong>.
 
