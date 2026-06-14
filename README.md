@@ -8,7 +8,7 @@
 
 freshman BSIT student <strong>@University of Science and Technology of Philippines (USTP)</strong>.
 
-i like newjeans, and i code if i feel like it.
+i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it.
 
 ---
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
