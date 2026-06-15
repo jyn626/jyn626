@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jyn626&style=for-the-badge&color=yellowgreen&base=3500&label=&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=jyn626&style=for-the-badge&color=yellowgreen&base=3500&label=&)
 
 <img width="1000" height="300" alt="FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize" src="https://github.com/user-attachments/assets/b8a79c14-03d6-47d7-a460-1a7dd0e92865" />
 
