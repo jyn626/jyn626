@@ -5,10 +5,10 @@
 # @jyn626 👋
 
 <!-- <img align="right" width="64" height="64" alt="enemy-Sheet" src="https://github.com/user-attachments/assets/fef669ac-7beb-4db7-a5b8-8a9a4bb7fb1b" /> -->
-
-freshman BSIT student <strong>@University of Science and Technology of Philippines (USTP)</strong>.
-
-i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it.
+<b>about me:</b><br>
+sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
+i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it. <br>
+19.
 
 ---
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
