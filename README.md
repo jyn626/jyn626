@@ -8,7 +8,7 @@
 <b>about me:</b><br>
 sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
 i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it. <br>
-18.
+19.
 
 ---
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
