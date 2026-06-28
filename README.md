@@ -9,10 +9,10 @@
 
 <b>about me:</b><br>
 - Sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
-- I love newjeans, Newjeans, NewJeans, NJZ, and MDHHH
-- I code if i feel like it
-- I enjoy building softwares
-- I'm 19 
+- I love newjeans, Newjeans, NewJeans, NJZ, and MDHHH.
+- I code if i feel like it.
+- I enjoy building softwares.
+- I'm 19.
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
