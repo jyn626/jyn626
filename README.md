@@ -4,11 +4,15 @@
 
 # @jyn626 
 
-<!-- <img align="right" width="64" height="64" alt="enemy-Sheet" src="https://github.com/user-attachments/assets/fef669ac-7beb-4db7-a5b8-8a9a4bb7fb1b" /> -->
+<!-- Minji dancing -->
+<img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923" width="150"/>  
+
 <b>about me:</b><br>
-sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
-i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it. <br>
-19.
+- Sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
+- I love newjeans, Newjeans, NewJeans, NJZ, and MDHHH
+- I code if i feel like it
+- I enjoy building softwares
+- I'm 19 
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
@@ -56,7 +60,6 @@ i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it. <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  -->
  ---
   <p>socials:</p>
  
@@ -64,7 +67,9 @@ i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it. <br>
   [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=flat-square&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
   [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
 </div>
-<!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
+  -->
+
+
   
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/> -->
 <!--`INTP, so introverted and lazy. programming is my escape from reality.`-->
