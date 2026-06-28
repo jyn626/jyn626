@@ -2,7 +2,7 @@
 
 <img width="1000" height="300" alt="FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize" src="https://github.com/user-attachments/assets/b8a79c14-03d6-47d7-a460-1a7dd0e92865" />
 
-# @jyn626 👋
+# @jyn626 
 
 <!-- <img align="right" width="64" height="64" alt="enemy-Sheet" src="https://github.com/user-attachments/assets/fef669ac-7beb-4db7-a5b8-8a9a4bb7fb1b" /> -->
 <b>about me:</b><br>
@@ -10,7 +10,6 @@ sophomore information technology student <strong>@University of Science and Tech
 i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it. <br>
 19.
 
----
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/a4d6d3ac-8f68-4a55-aa5a-d85361154a3a"/>  -->
@@ -18,6 +17,8 @@ i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it. <br>
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/fab37bd7-3786-4420-b3cf-b30191ca0cfe"/>  -->
 
 <!-- <img width="256" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>   -->
+ <!--
+---
  <div align="left">
 
  <p>Languages</p>
@@ -52,17 +53,17 @@ i like newjeans, Newjeans, NewJeans, NJZ, and i code if i feel like it. <br>
   <p>tools</p>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
- <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <p>socials</p>
+  -->
+ ---
+  <p>socials:</p>
  
     
   [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=flat-square&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
   [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=flat-square&labelColor=282828&logo=discord&logoColor=white)](https://discord.com/users/1323981747976671318)
 </div>
-
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923"/>  -->
   
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/> -->
