@@ -8,11 +8,14 @@
 # @jyn626 
 
 <!-- Minji dancing -->
-<img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923" width="150"/>  
+<!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923" width="150"/>   -->
+
+<img  align="right" width="150" alt="Window washer animation" src="https://github.com/user-attachments/assets/37c5721c-44fd-45e3-822c-05b4ef4b8011" />
+
 
 <b>about me:</b><br>
 - Sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
-- I love newjeans, Newjeans, NewJeans, NJZ, and MDHHH.
+- I love NewJeans.
 - I code if i feel like it.
 - I enjoy building softwares.
 - I'm 19.
