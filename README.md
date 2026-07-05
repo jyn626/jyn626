@@ -14,11 +14,11 @@
 <img  align="right" width="150"  alt="Windowwasheranimation-ezgif com-remove-background" src="https://github.com/user-attachments/assets/51a0ecb7-0d47-4010-a3c7-6b953481b8b1" />
 
 <b>about me:</b><br>
-- Sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
-- I love NewJeans.
-- I code if i feel like it.
-- I enjoy building softwares.
-- I'm 19.
+- sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
+- i love NewJeans.
+- i code if i feel like it.
+- i enjoy building softwares.
+- i'm 19.
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
