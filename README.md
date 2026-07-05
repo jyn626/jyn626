@@ -10,11 +10,11 @@
 <!-- Minji dancing -->
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923" width="150"/>   -->
 
-<img  align="right"  width="241" alt="download9-ezgif com-remove-background" src="https://github.com/user-attachments/assets/08cd5db0-dc02-4413-82dc-999aa377c796" />
+<img  align="right"  width="200" alt="download9-ezgif com-remove-background" src="https://github.com/user-attachments/assets/08cd5db0-dc02-4413-82dc-999aa377c796" />
 
 
 <b>about me:</b><br>
-- sophomore information technology student <strong>@University of Science and Technology of Philippines</strong>. <br>
+- sophomore information technology student <strong>@University of Science and Technology of The Philippines</strong>. <br>
 - i love NewJeans and early 2000s music.
 - i code if i feel like it.
 - i enjoy building softwares.
