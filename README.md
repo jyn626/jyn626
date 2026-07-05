@@ -14,7 +14,7 @@
 <img  align="right" width="150"  alt="Windowwasheranimation-ezgif com-remove-background" src="https://github.com/user-attachments/assets/51a0ecb7-0d47-4010-a3c7-6b953481b8b1" />
 
 <b>about me:</b><br>
-- sophomore information technology student <strong>@University of Science and Technology of Philippines (USTP)</strong>. <br>
+- sophomore information technology student <strong>@University of Science and Technology of Philippines</strong>. <br>
 - i love NewJeans and early 2000s music.
 - i code if i feel like it.
 - i enjoy building softwares.
