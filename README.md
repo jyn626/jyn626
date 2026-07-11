@@ -15,7 +15,7 @@
 
 <b>about me:</b><br>
 - sophomore information technology student <strong>@University of Science and Technology of The Philippines</strong>. <br>
-- i love NewJeans and early 2000s music.
+- i love newjeans and early 2000s music.
 - i code if i feel like it.
 - i enjoy building softwares.
 - i like roblox.
