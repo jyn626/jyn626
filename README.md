@@ -18,6 +18,7 @@
 - i love NewJeans and early 2000s music.
 - i code if i feel like it.
 - i enjoy building softwares.
+- i play roblox... sometimes.
 - i'm 19.
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
