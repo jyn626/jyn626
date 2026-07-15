@@ -17,9 +17,6 @@
 - sophomore information technology student <strong>@University of Science and Technology of The Philippines</strong>. <br>
 - i love newjeans and early 2000s music.
 - i code if i feel like it.
-- i enjoy building softwares.
-- i like roblox.
-- i'm 19.
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
