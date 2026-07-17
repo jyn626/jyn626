@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=jyn626&style=for-the-badge&color=yellowgreen&base=3500&label=&abbreviated=true)
 
-<img width="1584" height="396" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686563697479792f616c6f6e65696e7468656369747979406d61696e2f6173736574732f696d616765732f77656c636f6d65322e676966" src="https://github.com/user-attachments/assets/45e4c01a-4e21-446d-9235-b1e82933bd02" />
+<img width="1584" height="396" 
+alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686563697479792f616c6f6e65696e7468656369747979406d61696e2f6173736574732f696d616765732f77656c636f6d65322e676966" src="https://github.com/user-attachments/assets/45e4c01a-4e21-446d-9235-b1e82933bd02" />
 
 
 <!-- <img width="1000" height="300" alt="FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize" src="https://github.com/user-attachments/assets/b8a79c14-03d6-47d7-a460-1a7dd0e92865" /> -->
@@ -10,7 +11,7 @@
 <!-- Minji dancing -->
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923" width="150"/>   -->
 
-<img  align="right"  width="240" alt="download9-ezgif com-remove-background" src="https://github.com/user-attachments/assets/08cd5db0-dc02-4413-82dc-999aa377c796" />
+<img  align="left"  width="240" alt="download9-ezgif com-remove-background" src="https://github.com/user-attachments/assets/08cd5db0-dc02-4413-82dc-999aa377c796" />
 
 
 <b>about me:</b><br>
