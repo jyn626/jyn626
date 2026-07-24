@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jyn626&style=for-the-badge&color=yellowgreen&base=3500&label=&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=jyn626&style=plastic&color=yellowgreen&base=3500&label=&abbreviated=true)
 
 <img width="1584" height="396" 
 alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686563697479792f616c6f6e65696e7468656369747979406d61696e2f6173736574732f696d616765732f77656c636f6d65322e676966" src="https://github.com/user-attachments/assets/45e4c01a-4e21-446d-9235-b1e82933bd02" />
@@ -6,7 +6,7 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 
 <!-- <img width="1000" height="300" alt="FromKlickPinCFGhimcaWildermanNiotrnNewjeanstrong2025-ezgif com-resize" src="https://github.com/user-attachments/assets/b8a79c14-03d6-47d7-a460-1a7dd0e92865" /> -->
 
-# @jyn626 
+## @jyn626 
 
 <!-- Minji dancing -->
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923" width="150"/>   -->
@@ -14,7 +14,7 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 <img  align="right"  width="160" alt="download9-ezgif com-remove-background" src="https://github.com/user-attachments/assets/08cd5db0-dc02-4413-82dc-999aa377c796" />
 
 
- ##### `>me`
+ #### `>me`
 
  <!-- - sophomore IT student <strong>@University of Science and Technology of The Philippines</strong>. <br> -->
  - sophomore at <strong>University of Science and Technology of The Philippines</strong>. <br>
@@ -36,6 +36,7 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
  > <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
  > <img src="https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white"/>
  > <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+ > <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white" alt="C#" />
  >
  > **frontend**
  > <br />
@@ -72,7 +73,7 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
   
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/> -->
 
- ##### `>socials`
+ #### `>socials`
  
     
   [![Facebook](https://img.shields.io/badge/Facebook-Chat-1877F2?style=plastic&labelColor=282828&logo=facebook&logoColor=white)](https://facebook.com/jo.jyn626)
