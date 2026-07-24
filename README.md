@@ -11,14 +11,16 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 <!-- Minji dancing -->
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923" width="150"/>   -->
 
-<img  align="left"  width="240" alt="download9-ezgif com-remove-background" src="https://github.com/user-attachments/assets/08cd5db0-dc02-4413-82dc-999aa377c796" />
+<img  align="right"  width="160" alt="download9-ezgif com-remove-background" src="https://github.com/user-attachments/assets/08cd5db0-dc02-4413-82dc-999aa377c796" />
 
+<details>
+ <summary>about me</summary>
 
-<b>about me:</b><br>
-- sophomore information technology student <strong>@University of Science and Technology of The Philippines</strong>. <br>
-- i love newjeans and early 2000s music.
-- i code if i feel like it.
+ - sophomore IT student <strong>@University of Science and Technology of The Philippines</strong>. <br>
+ - i love newjeans and 2000s music.
+ - i code if i feel like it.
 
+</details>
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/a4d6d3ac-8f68-4a55-aa5a-d85361154a3a"/>  -->
