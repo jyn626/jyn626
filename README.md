@@ -18,7 +18,7 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 
  <!-- - sophomore IT student <strong>@University of Science and Technology of The Philippines</strong>. <br> -->
  - sophomore at <strong>University of Science and Technology of The Philippines</strong>. <br>
- - i code if i feel like it, i hate people pls get away from me your presence drain me.
+ - i code when i feel like it 
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
