@@ -14,11 +14,11 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 <img  align="right"  width="160" alt="download9-ezgif com-remove-background" src="https://github.com/user-attachments/assets/08cd5db0-dc02-4413-82dc-999aa377c796" />
 
 
- #### `>me`
+ #### `>whoami`
 
  <!-- - sophomore IT student <strong>@University of Science and Technology of The Philippines</strong>. <br> -->
  - sophomore at <strong>University of Science and Technology of The Philippines</strong>. <br>
- - i code when i feel like it 
+ - antisocial, and i code when i feel like it. 
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
