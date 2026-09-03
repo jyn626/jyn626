@@ -27,8 +27,7 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 <!-- <img width="244" align="left" src="https://github.com/user-attachments/assets/fab37bd7-3786-4420-b3cf-b30191ca0cfe"/>  -->
 
 <!-- <img width="256" align="right" src="https://github.com/user-attachments/assets/3891050b-bdc7-4510-9a5d-d0e4d08c5ead"/>   -->
-<details>
-<summary>skills</summary>
+ #### `>skills`
 
  > **languages**
  > <br />
@@ -68,7 +67,6 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
  > <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
  > <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
 
-</details>
 
   
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=dojimori&theme=gruvbox&row=1&column=6"/> -->
