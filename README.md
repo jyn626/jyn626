@@ -18,7 +18,8 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 
  <!-- - sophomore IT student <strong>@University of Science and Technology of The Philippines</strong>. <br> -->
  - sophomore at <strong>University of Science and Technology of The Philippines</strong>. <br>
- - antisocial, and i code when i feel like it. 
+ - antisocial, and i code when i feel like it.
+ - i want a job, please give me a job.
 
 <!-- <p align='left'><i ><strong>1R6</strong></i></p> -->
 
