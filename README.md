@@ -12,10 +12,7 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 <!-- Minji dancing -->
 <!-- <img align="right" src="https://github.com/user-attachments/assets/b48496cc-d51d-4f4b-8eba-fe3ffbadc923" width="150"/>   -->
 
-
-<img width="200" height="200" align="right" alt="download (4)" src="https://github.com/user-attachments/assets/fe4d0ec7-313a-4c7e-8943-e69300b5f175" />
-
-
+<img align="right" width="200" alt="𓈒𓇼_࣪_𓈒__𓆡-removebg-preview" src="https://github.com/user-attachments/assets/d84d6a78-e13b-4054-8bf8-6b87f73f104d" />
 
  #### `>whoami`
 
