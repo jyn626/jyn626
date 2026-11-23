@@ -9,7 +9,10 @@ alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f616c6f6e65696e74686
 <br/>
 <br/>
 <br/>
-
-<img  align="center" width="500" src="./profile-3d-contrib/profile-south-season-animate.svg"/>
-
-<p style="text-size:22px; font-weight: bold;" align="center">@jyn626</p>
+<div align="center">
+  <img  align="center" width="500" src="./profile-3d-contrib/profile-south-season-animate.svg"/>
+  <br/>
+  <br/>
+  <br/>
+  <p style="text-size:22px; align="center"><b>@jyn626</b></p>
+</div> 
